@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcpbro-openmemory-mcp-badge.png)](https://mseep.ai/app/mcpbro-openmemory-mcp)
+
 My Learning Notes: Getting Started with OpenMemory MCP
 
 Today I started learning about [OpenMemory MCP](https://mcpbro.com/mcp/openmemory-mcp). It seems like a way to make my AI tools remember things locally, which sounds good for privacy. The main idea is that it's a memory server for AI tools using something called the Model Context Protocol. The key phrase I'm focusing on is OpenMemory MCP.
